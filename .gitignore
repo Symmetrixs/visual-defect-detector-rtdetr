@@ -1,0 +1,11 @@
+outputs/
+data/train/images/*
+data/valid/images/*
+!data/train/images/.gitkeep
+!data/valid/images/.gitkeep
+__pycache__/
+*.pyc
+.env
+*.pt
+*.pth
+*.bin
